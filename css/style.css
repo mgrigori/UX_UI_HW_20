@@ -1,0 +1,141 @@
+/* Nav bar*/
+.welcomepart{
+    display: flex !important;
+    align-items: flex-end !important;
+    justify-content: flex-end !important;
+}
+
+.logo{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    font-weight: bolder !important;
+}
+
+.navbar-brand{
+display:flex !important;
+align-items: center !important;
+justify-content: center !important;
+}
+
+.navbar{
+background-color: white !important;
+color: black !important;
+font-weight: bold !important;
+
+}
+
+/*End NavBar*/
+
+/*TEXT*/
+.maintitle{
+    font-size: 6vh;
+}
+/*END TEXT*/
+
+/*HEROIMAGE*/
+
+.heroimage{
+    width: 15% !important;
+    border-radius: 20%;
+}
+
+.cardmove{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.SOLUTION{
+    width: 50%;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.moveplese{
+    display: flex;
+    justify-content: center !important;
+}
+
+.final{
+    margin: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.final-proto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.finalimage{
+    width: 80%;
+}
+
+.fixbtn{
+    margin: 5%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-primary{
+    width:41vh !important;
+    height: 8vh !important;
+    background-color: #1A1E2E !important;
+}
+
+.FINALE{
+    text-align: left;
+}
+
+.background{
+background-image: url("../images/Rectangle\ 5.png");
+background-size: cover;
+
+}
+
+.text{
+    margin: 15%;
+    color: white;
+}
+
+.in{
+font-weight: 900;
+}
+
+.icon{
+    width: 2.5%;
+}
+
+.line{
+    width: 99%;
+}
+
+h3{
+    padding-top: 8%;
+}
+
+.card-deck{
+    margin:2%;
+}
+
+.card-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.fixcard{
+    padding-bottom: 6%;
+}
